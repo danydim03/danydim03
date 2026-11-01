@@ -210,7 +210,7 @@ daniele@torvergata:~$ cat /etc/engineer/profile.json
   <table border="0" width="100%">
     <tr align="center">
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=danydim03&show_icons=true&hide_border=true&bg_color=080e0b&title_color=00ff88&text_color=e2e8f0&icon_color=00ff88&rank_icon=github&count_private=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=danydim03&show_icons=true&hide_border=true&bg_color=080e0b&title_color=00ff88&text_color=e2e8f0&icon_color=00ff88&rank_icon=github&count_private=true" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%">
         <img src="https://streak-stats.demolab.com/?user=danydim03&hide_border=true&background=080e0b&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=e2e8f0&dates=94a3b8" width="100%" alt="GitHub Streak" />
@@ -218,7 +218,7 @@ daniele@torvergata:~$ cat /etc/engineer/profile.json
     </tr>
     <tr align="center">
       <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danydim03&layout=compact&hide_border=true&bg_color=080e0b&title_color=00ff88&text_color=e2e8f0&langs_count=8" width="85%" alt="Top Languages" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danydim03&layout=compact&hide_border=true&bg_color=080e0b&title_color=00ff88&text_color=e2e8f0&langs_count=8" width="85%" alt="Top Languages" />
       </td>
     </tr>
   </table>
